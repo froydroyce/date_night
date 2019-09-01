@@ -1,15 +1,20 @@
 {
   "Unit Tests": {
     "coverage": {
-      "/Users/sejinkim/turing/3module/practice/date_night/lib/binary_search_tree.rb": [
+      "/Users/sejinkim/turing/3module/practice/date_night/lib/node.rb": [
+        1,
+        1,
         1,
         null,
         1,
-        null,
+        3,
+        3,
+        3,
+        3,
         null,
         null
       ]
     },
-    "timestamp": 1567375129
+    "timestamp": 1567378671
   }
 }
